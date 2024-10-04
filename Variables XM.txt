@@ -1,0 +1,3 @@
+Aportes Caudal por Rio: AporCaudal   Rio
+Volumen Útil diario por Embalse: VoluUtilDiarMasa    Embalse
+Precio Bolsa Nacional por Sistema:  PrecBolNaci    Sistema
